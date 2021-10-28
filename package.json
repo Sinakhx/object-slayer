@@ -1,0 +1,27 @@
+{
+  "name": "object-slayer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinakhx/object-slayer.git"
+  },
+  "keywords": [
+    "object",
+    "slayer",
+    "utility",
+    "fp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sinakhx/object-slayer/issues"
+  },
+  "homepage": "https://github.com/Sinakhx/object-slayer#readme"
+}
